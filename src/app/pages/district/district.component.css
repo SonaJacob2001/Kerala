@@ -1,0 +1,16 @@
+.card
+{
+    margin: 5px;
+    height: 400px;
+
+}
+.card-img-top
+{
+    height: 50%;
+    width: 100%;
+}
+.card-text
+{
+    height: 100px;
+    overflow: hidden;
+}
